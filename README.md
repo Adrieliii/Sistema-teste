@@ -5,5 +5,5 @@
 Para rodar esse projeto na sua máquina: 
 
 '''
-Programas e arquivos necessários
+node.js
 '''
